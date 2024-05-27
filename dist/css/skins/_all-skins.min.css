@@ -25,7 +25,7 @@
   color: #fff;
 }
 .skin-blue .main-header .navbar .sidebar-toggle:hover {
-  background-color: #d23030;
+  background-color: #327337;
 }
 @media (max-width: 767px) {
   .skin-blue .main-header .navbar .dropdown-menu li.divider {
@@ -35,19 +35,19 @@
     color: #fff;
   }
   .skin-blue .main-header .navbar .dropdown-menu li a:hover {
-    background: #d23030;
+    background: #327337;
   }
 }
 .skin-blue .main-header .logo {
-  background-color: #d23030;
+  background-color: #327337;
   color: #fff;
   border-bottom: 0 solid transparent;
 }
 .skin-blue .main-header .logo:hover {
-  background-color: #c73f3f;
+  background-color: #38933f;
 }
 .skin-blue .main-header li.user-header {
-  background-color: #d23030;
+  background-color: #327337;
 }
 .skin-blue .content-header {
   background: transparent;
@@ -72,7 +72,7 @@
 .skin-blue .sidebar-menu > li.active > a {
   color: #fff;
   background: #1e282c;
-  border-left-color: #d23030;
+  border-left-color: #327337;
 }
 .skin-blue .sidebar-menu > li > .treeview-menu {
   margin: 0 1px;
@@ -126,15 +126,15 @@
   border-bottom-left-radius: 0;
 }
 .skin-blue.layout-top-nav .main-header > .logo {
-  background-color: #d23030;
+  background-color: #327337;
   color: #fff;
   border-bottom: 0 solid transparent;
 }
 .skin-blue.layout-top-nav .main-header > .logo:hover {
-  background-color: #d23030;
+  background-color: #327337;
 }
 .skin-blue-light .main-header .navbar {
-  background-color: #d23030;
+  background-color: #327337;
 }
 .skin-blue-light .main-header .navbar .nav > li > a {
   color: #fff;
@@ -160,7 +160,7 @@
   color: #fff;
 }
 .skin-blue-light .main-header .navbar .sidebar-toggle:hover {
-  background-color: #d23030;
+  background-color: #327337;
 }
 @media (max-width: 767px) {
   .skin-blue-light .main-header .navbar .dropdown-menu li.divider {
@@ -170,19 +170,19 @@
     color: #fff;
   }
   .skin-blue-light .main-header .navbar .dropdown-menu li a:hover {
-    background: #d23030;
+    background: #327337;
   }
 }
 .skin-blue-light .main-header .logo {
-  background-color: #d23030;
+  background-color: #327337;
   color: #fff;
   border-bottom: 0 solid transparent;
 }
 .skin-blue-light .main-header .logo:hover {
-  background-color: #d23030;
+  background-color: #327337;
 }
 .skin-blue-light .main-header li.user-header {
-  background-color: #d23030;
+  background-color: #327337;
 }
 .skin-blue-light .content-header {
   background: transparent;
@@ -219,7 +219,7 @@
   background: #f4f4f5;
 }
 .skin-blue-light .sidebar-menu > li.active {
-  border-left-color: #d23030;
+  border-left-color: #327337;
 }
 .skin-blue-light .sidebar-menu > li.active > a {
   font-weight: 600;
@@ -297,12 +297,12 @@
   border-top-color: #d2d6de;
 }
 .skin-blue.layout-top-nav .main-header > .logo {
-  background-color: #d23030;
+  background-color: #327337;
   color: #fff;
   border-bottom: 0 solid transparent;
 }
 .skin-blue.layout-top-nav .main-header > .logo:hover {
-  background-color: #d23030;
+  background-color: #327337;
 }
 .skin-black .main-header {
   -webkit-box-shadow: 0 1px 1px rgba(0, 0, 0, 0.05);
